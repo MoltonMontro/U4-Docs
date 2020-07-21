@@ -1,2 +1,3 @@
-# U4-Docs
-Documentation for Unturned II.
+# Unturned II Documentation
+
+Recently split from the internal documentation until mod tools are available.
