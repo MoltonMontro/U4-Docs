@@ -12,6 +12,7 @@ Launch the server with the map name, and -Log to open a command prompt. Valid ma
 	Horde_Sandbox
 	Horde_Chapel
 	Horde_Potato
+	TheBigDemoMap
 
 Until configuration is thoroughly implemented, a temporary config file format similar to 3.0's is available. Specify the -U4SV=MyFile.ini on the command-line. This can be a file name in the Saved folder, or an absolute file path anywhere on the system. The game populates defaults in this format:
 
